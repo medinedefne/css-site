@@ -1,0 +1,37 @@
+body{
+    background: url(res/arkaplan.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+header{
+    margin: 1rem;
+    padding: .5rem;
+    background-color: #d4d3d3da;
+    padding-top: 1rem;
+
+}
+
+.container{
+    text-align: center;
+}
+
+.card{
+    background-color: #e7e3e3cc;
+    margin: 1rem;
+}
+
+.product{
+    margin: .5rem;
+    position: absolute;
+    background-color: #e4002ac0;
+    color: #fff;
+    padding: .5rem;
+}
+
+footer{
+    margin: 1rem;
+    padding: .5rem;
+    background-color: #d4d3d3da;
+    padding-top: 1rem;
+}
